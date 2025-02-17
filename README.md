@@ -1,6 +1,6 @@
 --- 
 
-<center><h2><b>My Linux Learning Journey</b></h2></center>
+**السلام عليكم ورحمة الله وبركاته**
 
 ### **Introduction**  
 
