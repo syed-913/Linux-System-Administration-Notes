@@ -1,4 +1,4 @@
---- 
+___
 
 **السلام عليكم ورحمة الله وبركاته**
 
@@ -10,7 +10,7 @@ The curriculum provided a comprehensive and in-depth exploration of **Red Hat Li
 
 These notes serve as an invaluable resource for **beginners and intermediate learners** who seek to strengthen their understanding of Linux from both **theoretical and practical perspectives**. To maximize usability and organization, I recommend using **[Obsidian](https://obsidian.md/download)** for reading and structuring the content effectively.  
 
----
+___ 
 
 ## **Topics Covered in My Notes**  
 
@@ -70,7 +70,7 @@ These notes serve as an invaluable resource for **beginners and intermediate lea
 - **Types of firewalls, TCP Wrappers, and security best practices**  
 - **Essential firewall commands for managing Linux security**  
 
----
+___
 
 ## **Why I Learned Linux?**  
 My interest in Linux was sparked by pure curiosity.  
@@ -79,11 +79,11 @@ As I progressed, I realized the immense power and flexibility that Linux offers 
 As the saying goes:  
 _"In a world where everything just works, Linux dares you to understand why."_  
 
----
+___
 
 ### **Final Thoughts**  
 This repository serves as a structured knowledge base, aiming to assist those who are embarking on their **Linux System Administration journey**. Whether you are a **beginner, a cybersecurity enthusiast, or an aspiring system administrator**, these notes will provide a solid foundation in Linux concepts, practical skills, and real-world applications.  
 
 If you find these notes helpful, feel free to **connect with me on LinkedIn** or share your feedback. 🚀  
 
----
+___
