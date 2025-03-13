@@ -1,6 +1,4 @@
-Your notes are well-organized, but I refined them, corrected errors, and added additional information to enhance the content. Here's the updated version:
-
----
+--- 
 
 ### **Logical Volume Manager (LVM) in Linux**
 
